@@ -1,0 +1,11 @@
+.tallEnough {
+  background-color: green;
+}
+
+.tooShort {
+  background-color: red;
+}
+
+.tooTall {
+  background-color: yellow;
+}
